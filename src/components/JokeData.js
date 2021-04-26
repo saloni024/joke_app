@@ -10,7 +10,7 @@ const jokeData = [
     },
     {
         id: 3,
-        question: "Whay did a programmer quit his job?",
+        question: "Why did a programmer quit his job?",
         answer: "Because he didn't get arrays.",
     },
     {
